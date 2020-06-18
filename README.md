@@ -69,3 +69,4 @@ $ jtop
 - Go to Info by pressing 6 key.
 - Verify the OpenCV libraries (Compiled CUDA flag should be YES)
 ```
+![alt text](https://github.com/hemangpandhi/BuildOpenCV_JetsonXavierNX/blob/master/Jtop.png)
