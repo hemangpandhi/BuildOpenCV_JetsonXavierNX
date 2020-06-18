@@ -3,7 +3,7 @@
 Build OpenCV 4.4.0 (Pre release version) with CUDA support enabled on Jetson Xavier NX
 
 Step 1: Update the dependacies using below command.
-sudo apt-get update
+$sudo apt-get update
 
 Step 2: Install required dependacies to build OpenCV using apt-get commands.
 
